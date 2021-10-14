@@ -3,9 +3,9 @@ i am android engineeer at <a href="https://aellaapp.com/">AellaCredit</a>
 
 i am currently obessing on KMM and Jetpack-compose 
 
- you can check me out on <a href="https://linkedin.com/in/codersanjeev">
-  <img alt="Sanjeev's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-</a>
+my favorite thing to talk about is anything kotlin and software architecture.
+
+You can reach me on <a href="https://www.linkedin.com/in/freedomchuks/">Linkedin</a>
 
 <!---
 FreedomChukss/FreedomChukss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
