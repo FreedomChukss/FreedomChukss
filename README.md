@@ -1,7 +1,7 @@
 ### Hi, there 👋🏻👋🏼👋🏽
 i am android engineeer at <a href="https://aellaapp.com/">AellaCredit</a>
 
-i am currently obessing on KMM and Jetpack-compose 
+i am currently obessing on <a href="https://kotlinlang.org/docs/kmm-overview.html">KMM</a>  and Jetpack-compose 
 
 my favorite thing to talk about is anything kotlin and software architecture.
 
